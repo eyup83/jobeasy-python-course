@@ -14,5 +14,5 @@ result_2 = math.ceil(5 / 2 * 6 + 1.25 - 4)
 
 # Round up result_3 to lesser value.
 
-result_3 = math.floor (8 / 3 * 5 + 4.75 - 7)
+result_3 = math.floor(8 / 3 * 5 + 4.75 - 7)
 
